@@ -6,7 +6,7 @@ class Solution
      * 1.有效的括号
      * @author grn
      * @param $str
-	 * @param $va
+     * @param $va
      * @return boolean
      */
     public function isValid($str,$va = ['()', '[]', '{}', "<>"])
