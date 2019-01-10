@@ -3,7 +3,6 @@ class Solution {
 		
        Stack<Character> stack = null;
 		
-		
 		if (str.length() % 2 == 1) {
 			return false;
 		} else {
